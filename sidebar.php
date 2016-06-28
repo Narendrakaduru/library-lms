@@ -3,11 +3,7 @@
 			
 					
 			</div>
-			
-			
-		
-					
-					
+							
 							<ul class="nav nav-tabs nav-stacked">
 						<li class="">
 						<a   href="#">&nbsp;Contact US</a>

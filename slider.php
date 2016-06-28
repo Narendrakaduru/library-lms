@@ -4,9 +4,6 @@
 
 					<img src="LMS/EB13.jpg">     
                     
-               </div><!-- #pix_diapo -->
-                
+               </div><!-- #pix_diapo -->  
         </div>
-    
-    
     </section> 

@@ -7,9 +7,6 @@
 
 					<div class="alert alert-info"><Strong>Heads Up!</strong>&nbsp;Welcome to Geethanjali Library
 					
-					
-					
-	
 								
 							<div class="pull-right">
 								<?php
